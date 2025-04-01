@@ -122,7 +122,7 @@ int main()
 
     confronto(A2,b2,x_vero);
 
-
+    cout << "fine";
 
     return 0;
 
